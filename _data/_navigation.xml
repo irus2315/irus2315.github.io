@@ -1,8 +1,8 @@
 
 main:
   - title: "About"
-    url: /about/
+    url: https://irus2315.github.io/about/
   - title: "Blog"
-    url: /blog/
+    url: https://irus2315.github.io/blog/
   - title: "Work"
-    url: /work/
+    url: https://irus2315.github.io/work/
