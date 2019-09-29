@@ -1,25 +1,8 @@
-
-<!-- main:
+main:
   - title: "About"
     url: https://irus2315.github.io/about/
   - title: "Blog"
     url: https://irus2315.github.io/blog/
   - title: "Work"
     url: https://irus2315.github.io/work/
- -->
-
-    main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
+ 
