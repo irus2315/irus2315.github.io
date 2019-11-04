@@ -93,6 +93,14 @@
   img {
     width: 100%;
   }
+
+  @include breakpoint($small) {
+    max-height: 200px;
+  }
+
+  @include breakpoint($medium) {
+    max-height: 120px;
+  }
 }
 
 .archive__item-caption {
