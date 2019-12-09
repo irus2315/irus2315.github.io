@@ -4,8 +4,8 @@ main:
      url: "/about"
 
    - title: "Portfolio"
-     url: /portfolio/
-     
+     url: /category-archive/
+
    - title: "Posts"
      url: /year-archive/
   # - title: "Collections"
