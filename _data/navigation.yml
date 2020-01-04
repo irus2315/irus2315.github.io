@@ -3,8 +3,8 @@ main:
   #  - title: "About"
   #    url: "/about"
 
-   - title: "Recent Works"
-     url: "/woks"
+   - title: "Works"
+     url: "/works"
 
   #  - title: "Posts"
   #    url: /year-archive/
