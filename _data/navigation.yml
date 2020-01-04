@@ -3,8 +3,8 @@ main:
   #  - title: "About"
   #    url: "/about"
 
-  #  - title: "Portfolio"
-  #    url: /category-archive/
+   - title: "Recent Works"
+     url: "/woks"
 
   #  - title: "Posts"
   #    url: /year-archive/
