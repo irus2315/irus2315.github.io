@@ -2,6 +2,7 @@
 title: "Works"
 layout: archive
 excerpt: "Works"
+permalink: /works/
 ---
 
 
