@@ -13,9 +13,7 @@ Android App개발 / Flash개발
 사용기술 : Java, Socket, Retrofit2
 ### 예측하기
 <figure>
-	![404]({{ site.url }}{{ site.baseurl }}/assets/images/works/rainbowdot_pred.gif)
-	![404]({{ site.url }}{{ site.baseurl }}/assets/images/works/rainbowdot_pred.gif)
-	![404]({{ site.url }}{{ site.baseurl }}/assets/images/works/rainbowdot_pred.gif)
+	<img src="/assets/images/works/rainbowdot_pred.gif">
 </figure>
 
 
@@ -24,14 +22,6 @@ Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater u
 #### Two Up
 
 Apply the `half` class like so to display two images side by side that share the same caption.
-
-```html
-<figure class="half">
-    <a href="/assets/images/image-filename-1-large.jpg"><img src="/assets/images/image-filename-1.jpg"></a>
-    <a href="/assets/images/image-filename-2-large.jpg"><img src="/assets/images/image-filename-2.jpg"></a>
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
-```
 
 And you'll get something that looks like this:
 
@@ -45,11 +35,9 @@ And you'll get something that looks like this:
 
 Apply the `third` class like so to display three images side by side that share the same caption.
 
-```html
 <figure class="third">
 	<img src="/images/image-filename-1.jpg">
 	<img src="/images/image-filename-2.jpg">
 	<img src="/images/image-filename-3.jpg">
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>
-```
