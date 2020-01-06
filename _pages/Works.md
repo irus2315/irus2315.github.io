@@ -5,16 +5,17 @@ excerpt: "Works"
 permalink: /works/
 ---
 
+Android App개발 / Flash개발
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
 
 ### Rainbowdot
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
-
+주식 / 암호화폐 시세를 가져와서 예측 / 평가하는 소셜앱
+사용기술 : Java, Socket, Retrofit2
 #### 예측하기
-
 <figure>
-	![404]({{ site.url }}{{ site.baseurl }}/assets/images/works/rainbowdot_pred)
+	![404]({{ site.url }}{{ site.baseurl }}/assets/images/works/rainbowdot_pred.gif)
+	![404]({{ site.url }}{{ site.baseurl }}/assets/images/works/rainbowdot_pred.gif)
+	![404]({{ site.url }}{{ site.baseurl }}/assets/images/works/rainbowdot_pred.gif)
 </figure>
 
 
