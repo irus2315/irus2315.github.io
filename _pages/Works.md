@@ -20,3 +20,16 @@ Android App개발 / Flash개발
 <figure>
 	<img src="/assets/images/works/rainbowdot_chart.gif">
 </figure>
+
+#### 리그 
+<figure>
+	<img src="/assets/images/works/rainbowdot_league.gif">
+</figure>
+
+## Replayer
+Mp3Player  
+사용기술 : Java
+#### 
+<figure>
+	<img src="/assets/images/works/replayer.gif">
+</figure>
