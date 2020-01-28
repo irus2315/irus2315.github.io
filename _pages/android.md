@@ -1,6 +1,6 @@
 ---
 layout: category
-permalink: /blog/
+permalink: /android/
 author_profile: false
-taxonomy: blog
+taxonomy: android
 ---
