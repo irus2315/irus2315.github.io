@@ -1,6 +1,6 @@
 ---
 title: "Posts by Category"
-layout: category
+layout: categories
 permalink: /post/
 author_profile: false
 taxonomy: blog
