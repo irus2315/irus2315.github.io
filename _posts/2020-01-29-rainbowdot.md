@@ -3,6 +3,8 @@ title:  "Rainbowdot"
 excerpt: "Rainbowdot"
 categories:
   - work
+header:
+  overlay_image: /assets/images/works/rainbowdot_pred.gif
 ---
 
 ### 레인보우닷 (암호화폐 / 주식 가격예측 소셜 서비스)
