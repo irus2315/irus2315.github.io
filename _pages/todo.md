@@ -1,8 +1,8 @@
 ---
 layout: category
-permalink: /work/
+permalink: /todo/
 author_profile: false
-taxonomy: work
+taxonomy: todo
 entries_layout: grid
 classes: wide
 ---
