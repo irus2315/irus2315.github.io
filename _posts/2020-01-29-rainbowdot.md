@@ -4,7 +4,7 @@ excerpt: "레인보우닷 (암호화폐 / 주식 가격예측 소셜 서비스)"
 categories:
   - work
 header:
-  teaser: "assets/images/works/rainbowdot.jpg"
+  teaser: "/assets/images/works/rainbowdot_pred.gif"
 ---
 
 ### 레인보우닷 (암호화폐 / 주식 가격예측 소셜 서비스)
