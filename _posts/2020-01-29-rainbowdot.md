@@ -1,9 +1,9 @@
 ---
 title:  "Rainbowdot"
 excerpt: "Rainbowdot"
-categories:
-  - work
 header:
+
+  image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: "assets/images/works/rainbowdot.jpg"
 ---
 
