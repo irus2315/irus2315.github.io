@@ -1,8 +1,8 @@
 ---
 title:  "Last Works"
 excerpt: "Last Works"
-categories:
-  - work
+# categories:
+#   - work
 ---
 
 ### Replayer
