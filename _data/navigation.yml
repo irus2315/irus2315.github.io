@@ -1,6 +1,6 @@
 main:
-   - title: "Android"
-     url: "/android"   
+   - title: "Dev"
+     url: "/dev"   
    - title: "Works"
      url: "/work"
 
