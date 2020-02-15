@@ -2,7 +2,7 @@
 title:  "IHtmlEditor"
 excerpt: "Html에디터"
 categories:
-  - work
+  - worktemp
 header:
   teaser: "-"
 ---
