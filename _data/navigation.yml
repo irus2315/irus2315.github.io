@@ -1,4 +1,6 @@
 main:
+   - title: "Invest"
+     url: "/invest"   
    - title: "Dev"
      url: "/dev"   
    - title: "Works"
